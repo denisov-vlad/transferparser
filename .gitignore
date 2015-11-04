@@ -1,5 +1,2 @@
 old
-matches.csv
-players_info.csv
-players_matches.csv
-players_tm.csv
+*.csv
